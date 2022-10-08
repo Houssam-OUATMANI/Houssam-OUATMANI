@@ -1,5 +1,5 @@
 ### Hi 👋 🌎 
-<img src="https://www.codewars.com/users/HoussDev/badges/large">
+
 <br/>
 <br/>
 
@@ -7,7 +7,7 @@ Je suis Houssam,j'habite à Paris. j'apprecie tout particulierement le web et le
 J'ai une chaine youtube ou je fais des trucs liés au web. https://www.youtube.com/c/HoussamCode
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Houssam-OUATMANI)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://www.codewars.com/users/HoussDev/badges/large">
 <br/>
 <br/>
 
