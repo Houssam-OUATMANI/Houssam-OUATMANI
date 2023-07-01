@@ -1,5 +1,7 @@
 ### Hi 👋 🌎 
 
+![](https://komarev.com/ghpvc/?username=Houssam-OUATMANI&color=green)
+
 <br/>
 <br/>
 
