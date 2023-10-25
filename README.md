@@ -47,7 +47,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width="50" />
 
 ### I Work With:
- ![](http://prodel-elec.fr/)
+ ![Prodel](http://prodel-elec.fr/)
 
 
 ### Stats
