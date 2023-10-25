@@ -47,7 +47,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width="50" />
 
 ### I Work With:
-<a href="[https://www.campusfonderiedelimage.org/"> <img width="50" src="https://file.diplomeo-static.com/file/00/00/00/27/2776.svg"></a>
+<a href="https://www.campusfonderiedelimage.org/"> <img width="50" src="https://file.diplomeo-static.com/file/00/00/00/27/2776.svg"></a>
 
 
 ### Stats
