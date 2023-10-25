@@ -1,13 +1,20 @@
 ### Welcome to My GitHub! 🌎 
 
-👋 Hey there! I'm Houssam, and I'm passionate about Computer Science. 
-🚀 I'm a FullStack Web Enginner with a strong background in Node ans PHP and a love for open-source development.
-🌱 My journey in the tech world is an ongoing adventure, and I'm always learning and growing. If you're interested in collaborating, have feedback, or just want to connect, feel free to reach out.
-📫 You can contact me via email at ouatmanihoussam[at]gmail.com
-🌟 Thanks for stopping by, and happy coding!
+👋 Hey there! I'm Houssam, and I'm passionate about Computer Science.<br>
+🚀 I'm a FullStack Web Enginner with a strong background in Node ans PHP and a love for open-source development.<br>
+🌱 My journey in the tech world is an ongoing adventure, and I'm always learning and growing. If you're interested in collaborating, have feedback, or just want to connect, feel free to reach out.<br>
+📫 You can contact me via email at ouatmanihoussam[at]gmail.com.<br>
+🌟 Thanks for stopping by, and happy coding!<br>
 
 ### Langages and Frameworks:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="25"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="25" />
+          
+          
+          
           
 
 ![](https://komarev.com/ghpvc/?username=Houssam-OUATMANI&color=green)
