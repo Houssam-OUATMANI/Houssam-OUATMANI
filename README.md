@@ -77,3 +77,43 @@ Profile  (<https://www.codewars.com/users/HoussDev>)
     I -- No --> H
     J --> K(End)
 ```
+```mermaid
+   graph TD
+  subgraph Original Array
+    A[8]
+    B[3]
+    C[1]
+    D[7]
+    E[0]
+    F[10]
+  end
+  subgraph Partition
+    A --> B --> C --> D --> E --> F
+  end
+  subgraph Quicksort
+    subgraph Pivot: 3
+      B --> A
+      C --> D --> E --> F
+    end
+    subgraph Pivot: 1
+      C --> B
+      E --> D
+      F --> A
+    end
+    subgraph Pivot: 7
+      D --> C
+      F --> B
+    end
+    subgraph Pivot: 10
+      F --> D
+    end
+  end
+  subgraph Sorted Array
+    E
+    C
+    B
+    A
+    D
+    F
+  end
+```
