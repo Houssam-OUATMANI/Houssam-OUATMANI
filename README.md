@@ -1,7 +1,7 @@
 ### Welcome to My GitHub! 🌎
 
 👋 Hey there! I'm Houssam, and I'm passionate about Computer Science.<br>
-🚀 I'm a FullStack Web Enginner with a strong background in Node ans PHP and a love for open-source development.<br>
+🚀 I'm a FullStack Web Enginner with a strong background in Node/PHP and a love for open-source development.<br>
 🌱 My journey in the tech world is an ongoing adventure, and I'm always learning and growing. If you're interested in collaborating, have feedback, or just want to connect, feel free to reach out.<br>
 📫 You can contact me via email at ouatmanihoussam[at]gmail.com.<br>
 🌟 Thanks for stopping by, and happy coding!<br>
