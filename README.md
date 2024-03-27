@@ -34,18 +34,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
           
-
-### Tools
-
-!<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"  width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg"  width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"   width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"  width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width="50" />
-
 ### I Work With:
 <a href="https://www.campusfonderiedelimage.org/"> <img width="50" src="https://file.diplomeo-static.com/file/00/00/00/27/2776.svg"></a>
 <a href="https://emsca.com/"> <img width="50" src="https://emsca.com/wp-content/uploads/2021/02/cropped-logo-carre-EMSCA.png"></a>
@@ -78,44 +66,4 @@ Profile  (<https://www.codewars.com/users/HoussDev>)
     I -- Yes --> J(Release)
     I -- No --> H
     J --> K(End)
-```
-```mermaid
-   graph TD
-  subgraph Original Array
-    A[8]
-    B[3]
-    C[1]
-    D[7]
-    E[0]
-    F[10]
-  end
-  subgraph Partition
-    A --> B --> C --> D --> E --> F
-  end
-  subgraph Quicksort
-    subgraph Pivot: 3
-      B --> A
-      C --> D --> E --> F
-    end
-    subgraph Pivot: 1
-      C --> B
-      E --> D
-      F --> A
-    end
-    subgraph Pivot: 7
-      D --> C
-      F --> B
-    end
-    subgraph Pivot: 10
-      F --> D
-    end
-  end
-  subgraph Sorted Array
-    E
-    C
-    B
-    A
-    D
-    F
-  end
 ```
