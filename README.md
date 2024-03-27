@@ -50,7 +50,7 @@ Profile  (<https://www.codewars.com/users/HoussDev>)
 
 <img src="https://www.codewars.com/users/HoussDev/badges/large">
 
-### fun
+### Fun
 
 ```mermaid
     graph LR
