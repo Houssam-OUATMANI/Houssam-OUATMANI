@@ -14,6 +14,9 @@
        <a href="https://www.typescriptlang.org/">
               <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"/>
        </a>&emsp;
+        <a href="https://www.php.net/">
+              <img alt="php" src="https://img.shields.io/badge/php-7A86B8?style=for-the-badge&logo=php&logoColor=black"/>
+       </a>&emsp;
           
 </div>
 
