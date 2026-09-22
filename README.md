@@ -170,8 +170,8 @@ A few books that have shaped the way I think about **software design, architectu
     <img src="https://www.oreilly.com/covers/urn:orm:book:0321278658/296w/?format=webp" width="130" alt="Extreme Programming Explained"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://refactoring.guru/design-patterns/book">
-    <img src="https://m.media-amazon.com/images/I/51M8W5z3ZSL._SL500_.jpg" width="130" alt="Design Patterns"/>
+  <a href="https://www.amazon.fr/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612">
+    <img src="https://m.media-amazon.com/images/I/514MXaweEUL._SY445_SX342_ML2_.jpg" width="130" alt="Design Patterns"/>
   </a>
 </p>
 
