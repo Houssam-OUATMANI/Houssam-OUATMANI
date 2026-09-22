@@ -147,6 +147,43 @@ I particularly enjoy projects where I can work on the **architecture and interna
 - [AdonisJS 6 : Mise à jour et suppression des  Publications](https://www.youtube.com/watch?v=1_3atcIVh_Y)
 <!-- YOUTUBE:END -->
 
+
+
+## 📚 Books
+
+A few books that have shaped the way I think about **software design, architecture and engineering**.
+
+<p align="center">
+  <a href="https://www.oreilly.com/library/view/clean-code-a/9780136083238/">
+    <img src="https://m.media-amazon.com/images/I/41xShlnTZTL._SL500_.jpg" width="130" alt="Clean Code"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.oreilly.com/library/view/the-clean-coder/9780132542913/">
+    <img src="https://m.media-amazon.com/images/I/51O4X9QJYTL._SL500_.jpg" width="130" alt="The Clean Coder"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/">
+    <img src="https://m.media-amazon.com/images/I/41-sN-mzwKL._SL500_.jpg" width="130" alt="Clean Architecture"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.oreilly.com/library/view/extreme-programming-explained/0321278658/">
+    <img src="https://m.media-amazon.com/images/I/51jK9e8z8VL._SL500_.jpg" width="130" alt="Extreme Programming Explained"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://refactoring.guru/design-patterns/book">
+    <img src="https://m.media-amazon.com/images/I/51M8W5z3ZSL._SL500_.jpg" width="130" alt="Design Patterns"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Clean Code</b> ·
+  <b>The Clean Coder</b> ·
+  <b>Clean Architecture</b> ·
+  <b>Extreme Programming Explained</b> ·
+  <b>Design Patterns (GoF)</b>
+</p>
+
+
 ## 📊 GitHub
 
 <p align="center">
