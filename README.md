@@ -137,6 +137,11 @@ I particularly enjoy projects where I can work on the **architecture and interna
 
 ---
 
+## 🎥 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 ## 📊 GitHub
 
 <p align="center">
