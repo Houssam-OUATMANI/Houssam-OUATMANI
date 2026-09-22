@@ -140,6 +140,11 @@ I particularly enjoy projects where I can work on the **architecture and interna
 ## 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Créer un Jeu du Morpion &lpar;Tic-Tac-Toe&rpar; avec HTML, CSS et JavaScript - Tutoriel Débutant](https://www.youtube.com/watch?v=Dqc5sTv82nc)
+- [Chatbot Maison Ft. Ollama, Bun, Express, Vue, DaisyUI, Marked.js](https://www.youtube.com/watch?v=2LGainhJJok)
+- [AdonisJS 6 : Système d&#39;autorisation et rôle [Re-upload soucis de montage]](https://www.youtube.com/watch?v=yqoqNe-NIYc)
+- [AdonisJS 6 :  Unpoly JS](https://www.youtube.com/watch?v=TrTRYRwIpJM)
+- [AdonisJS 6 : Mise à jour et suppression des  Publications](https://www.youtube.com/watch?v=1_3atcIVh_Y)
 <!-- YOUTUBE:END -->
 
 ## 📊 GitHub
