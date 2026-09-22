@@ -167,7 +167,7 @@ A few books that have shaped the way I think about **software design, architectu
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.oreilly.com/library/view/extreme-programming-explained/0321278658/">
-    <img src="https://www.oreilly.com/covers/urn:orm:book:0321278658/296w/?format=webp" width="130" alt="Extreme Programming Explained"/>
+    <img src="https://m.media-amazon.com/images/I/61Jdrn9cfpL._SL1500_.jpg" width="130" alt="Extreme Programming Explained"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.amazon.fr/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612">
