@@ -159,7 +159,7 @@ A few books that have shaped the way I think about **software design, architectu
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.oreilly.com/library/view/the-clean-coder/9780132542913/">
-    <img src="https://m.media-amazon.com/images/I/51O4X9QJYTL._SL500_.jpg" width="130" alt="The Clean Coder"/>
+    <img src="https://m.media-amazon.com/images/I/81L+johQmlL._SL1500_.jpg" width="130" alt="The Clean Coder"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/">
